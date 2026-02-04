@@ -1,1 +1,3 @@
 # simpleautoclicker
+
+README WIP..
